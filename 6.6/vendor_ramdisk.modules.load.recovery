@@ -1,7 +1,4 @@
 bootprof.ko
-mrdump.ko
-aee_aed.ko
-aee_hangdet.ko
 mtk_printk_ctrl.ko
 irq-dbg.ko
 log_store.ko
@@ -137,7 +134,6 @@ dsi-panel-mot-tm-vtdr6115-655-fhdp-video-144hz.ko
 dsi-panel-mot-boe-nt37701a-655-fhdp-video-144hz.ko
 mtk-afe-external.ko
 mediatek-drm.ko
-aee_rs.ko
 cmdq_helper_inf.ko
 mtk_battery_oc_throttling.ko
 mtk_low_battery_throttling.ko
